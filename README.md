@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Rıza</h1>
-<h3 align="center">🔭 I’m currently working on **react, vue, javascript**</h3>
+<h3 align="center">🔭 I’m currently working on C#, docker, react, vue, javascript</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

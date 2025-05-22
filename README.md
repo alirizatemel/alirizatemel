@@ -1,3 +1,10 @@
+<style>
+  .icon-link {
+    text-decoration: none;
+    margin-right: 8px; 
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Ali Rıza</h1>
 <h3 align="center">🔭 I’m currently working on C#, docker, python</h3>
 
